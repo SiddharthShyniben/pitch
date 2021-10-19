@@ -362,4 +362,6 @@ hi typescriptStatementKeyword guifg=#00BBFF ctermfg=39 guibg=NONE ctermbg=NONE g
 hi typescriptTemplateSB guifg=#EEAAFF ctermfg=219 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi typescriptTypeReference guifg=#FFCC66 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi typescriptTypeAnnotation guifg=#999999 ctermfg=246 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi SpelunkerSpellBad guifg=#EEEEEE ctermfg=255 guibg=#FB5599 ctermbg=204 gui=NONE cterm=NONE
+hi SpelunkerComplexOrCompoundWord guifg=#EEEEEE ctermfg=255 guibg=#FB5599 ctermbg=204 gui=NONE cterm=NONE
 

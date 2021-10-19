@@ -446,3 +446,7 @@ typescriptStatementKeyword: 'blue'
 typescriptTemplateSB: 'pink'
 typescriptTypeReference: 'yellow'
 typescriptTypeAnnotation: 'lightgray'
+
+# Spleunker plugin
+SpelunkerSpellBad: 'fg deeppink'
+SpelunkerComplexOrCompoundWord: 'fg deeppink'
