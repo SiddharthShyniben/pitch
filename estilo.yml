@@ -5,6 +5,11 @@ author: 'Siddharth Shyniben'
 url: 'pitch.siddu.tech'
 description: 'Pitch black theme'
 colorschemes:
-- name: 'pitch'
-  background: 'dark'
-  palette: 'pitch'
+  - name: 'pitch'
+    background: 'dark'
+    palette: 'pitch'
+
+lightline:
+  - name: 'pitch'
+    palette: 'pitch'
+    style: 'pitch'
