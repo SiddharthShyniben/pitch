@@ -7,9 +7,9 @@
 
 let s:p = {"normal": {}, "inactive": {}, "insert": {}, "replace": {}, "visual": {}, "tabline": {} }
 
-let s:p.normal.left = [[["#00BBFF", 39], ["#181818", 234]], [["#656565", 242], ["#181818", 234]]]
-let s:p.normal.middle = [[["#00BBFF", 39], ["#181818", 234]]]
-let s:p.normal.right = [[["#00BBFF", 39], ["#181818", 234]], [["#00BBFF", 39], ["#181818", 234]]]
+let s:p.normal.left = [[["#EEEEEE", 255], ["#00BBFF", 39]], [["#656565", 242], ["#181818", 234]]]
+let s:p.normal.middle = [[["#EEEEEE", 255], ["#00BBFF", 39]]]
+let s:p.normal.right = [[["#EEEEEE", 255], ["#00BBFF", 39]], [["#EEEEEE", 255], ["#00BBFF", 39]]]
 let s:p.normal.error = [[["#EEEEEE", 255], ["#181818", 234]]]
 let s:p.normal.warning = [[["#EEEEEE", 255], ["#181818", 234]]]
 

@@ -448,5 +448,5 @@ typescriptTypeReference: 'yellow'
 typescriptTypeAnnotation: 'lightgray'
 
 # Spleunker plugin
-SpelunkerSpellBad: 'fg deeppink'
-SpelunkerComplexOrCompoundWord: 'fg deeppink'
+SpelunkerSpellBad: 'fg deeppink u'
+SpelunkerComplexOrCompoundWord: 'fg deeppink u'
