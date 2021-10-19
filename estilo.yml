@@ -1,0 +1,10 @@
+name: 'pitch'
+version: '1.0.0'
+license: 'MIT'
+author: 'Siddharth Shyniben'
+url: 'pitch.siddu.tech'
+description: 'Pitch black theme'
+colorschemes:
+- name: 'pitch'
+  background: 'dark'
+  palette: 'pitch'
