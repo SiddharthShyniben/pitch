@@ -1,42 +1,32 @@
 # some of the colors below did not quite line up, so I've made some tweaks. The original target color is posted for reference.
 
-bg: '#181818'
-fg: '#EEEEEE'
-cursorline: '#151515'
+bg: '#111111'
+fg: '#FFFFFF'
+cursorline: '#333333'
 linenumber: '#333333'
 cursorlinenumber: '#777777'
 highlight: '#3a3d41'
 comment: '#656565'
 
-# target: '#2F3439'
 search: '#2E343A'
 
-# target: '#BA8CFC'
 string: '#BB89FF'
 
-# target: '#20bcfc'
 blue: '#00BBFF'
 
-# target: '#ACDDFD'
 lightblue: '#AADDFF'
 jsonKeyword: '#AADDFF'
 
-# target: '#fd886b'
 orange: '#FF8867'
 
-# target: '#cd917a', used for json bool
 burntorange: '#CE9178'
 
 lightgray: '#999999'
 
-# target: '#fecb6e'
 yellow: '#FFCC66'
 
-# target: '#32ccdc'
 teal: '#23CCDD'
 
-# total: '#EDACFD'
 pink: '#EEAAFF'
 
-# target: '#FD5799'
 deeppink: '#FB5599'
