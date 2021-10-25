@@ -1,9 +1,9 @@
 # BASE UI
 # makeCommands:
-ColorColumn: ''
+ColorColumn: 'bg cursorlinenumber'
 Conceal: ''
-Cursor: 'bg deeppink'
-CursorColumn: ''
+Cursor: 'bg teal'
+CursorColumn: '- cursorline'
 CursorIM: ''
 CursorLine: '- cursorline'
 CursorLineNR: 'cursorlinenumber'
@@ -65,7 +65,7 @@ Constant: 'orange'
 Debug: '' # Special
 Define: 'teal' # PreProc
 Delimiter: 'lightgray' # Special
-Error: 'fg deeppink'
+Error: '- bg c'
 Exception: '' # Statement
 Float: '' # Constant
 Function: 'yellow' # Identifier
