@@ -56,7 +56,7 @@ hi Conditional guifg=#00BBFF ctermfg=39 guibg=NONE ctermbg=NONE gui=NONE cterm=N
 hi Constant guifg=#FF8867 ctermfg=209 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Define guifg=#23CCDD ctermfg=44 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Delimiter guifg=#999999 ctermfg=246 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Error guifg=NONE ctermfg=NONE guibg=#111111 ctermbg=233 gui=undercurl cterm=undercurl
+hi Error guifg=#FB5599 ctermfg=204 guibg=#111111 ctermbg=233 gui=undercurl cterm=undercurl
 hi Function guifg=#FFCC66 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Identifier guifg=#23CCDD ctermfg=44 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Number guifg=#FF8867 ctermfg=209 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -368,6 +368,6 @@ hi typescriptStatementKeyword guifg=#00BBFF ctermfg=39 guibg=NONE ctermbg=NONE g
 hi typescriptTemplateSB guifg=#EEAAFF ctermfg=219 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi typescriptTypeReference guifg=#FFCC66 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi typescriptTypeAnnotation guifg=#999999 ctermfg=246 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi SpelunkerSpellBad guifg=#FFFFFF ctermfg=15 guibg=#FB5599 ctermbg=204 gui=NONE cterm=NONE
-hi SpelunkerComplexOrCompoundWord guifg=#FFFFFF ctermfg=15 guibg=#FB5599 ctermbg=204 gui=NONE cterm=NONE
+hi SpelunkerSpellBad guifg=#FB5599 ctermfg=204 guibg=#FFFFFF ctermbg=15 gui=NONE cterm=NONE
+hi SpelunkerComplexOrCompoundWord guifg=#FB5599 ctermfg=204 guibg=#FFFFFF ctermbg=15 gui=NONE cterm=NONE
 

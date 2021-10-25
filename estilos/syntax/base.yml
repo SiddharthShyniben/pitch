@@ -65,7 +65,7 @@ Constant: 'orange'
 Debug: '' # Special
 Define: 'teal' # PreProc
 Delimiter: 'lightgray' # Special
-Error: '- bg c'
+Error: 'deeppink bg c'
 Exception: '' # Statement
 Float: '' # Constant
 Function: 'yellow' # Identifier
@@ -448,5 +448,5 @@ typescriptTypeReference: 'yellow'
 typescriptTypeAnnotation: 'lightgray'
 
 # Spleunker plugin
-SpelunkerSpellBad: 'fg deeppink'
-SpelunkerComplexOrCompoundWord: 'fg deeppink'
+SpelunkerSpellBad: 'deeppink fg'
+SpelunkerComplexOrCompoundWord: 'deeppink fg'
