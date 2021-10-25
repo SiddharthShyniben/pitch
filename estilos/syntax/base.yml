@@ -382,7 +382,9 @@ dockerfileKeyword: 'blue'
 
 # ALE
 ALEErrorSign: 'deeppink bg'
+ALEError: 'deeppink bg c'
 ALEWarningSign: 'yellow bg'
+ALEWarning: 'yellow bg c'
 
 # perl
 perlFiledescRead: 'pink'
